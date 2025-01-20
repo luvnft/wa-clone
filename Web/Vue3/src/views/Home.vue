@@ -158,7 +158,7 @@ const props = withDefaults(
     language: string;
   }>(),
   {
-    language: 'zh',
+    language: 'en',
   },
 );
 const emits = defineEmits(['changeLanguage']);
